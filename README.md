@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Everyone 👋😄
+
+-💬 Ahora mismo estoy aprendiendo a programar, sobre todo me estoy especializando en:
+  - Javascript
+  - HTML5
+-
+
 
 <!--
 **HiIMDenis/HiImDenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: denis.stupak23@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
