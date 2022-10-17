@@ -1,6 +1,6 @@
-### Hola a todos 👋🐪🐪🐪
+### Hola a todos 👋🐪🐪🐪🍑🍌
 
--💬 Ahora mismo estoy aprendiendo a programar, sobre todo me estoy especializando en:
+💬 Ahora mismo estoy aprendiendo a programar, sobre todo me estoy especializando en:
   - Javascript
   - HTML5
   - CSS
@@ -8,6 +8,7 @@
 
 
 📫 Contacto: denis.stupak23@gmail.com
+
 
 <!--
 **HiIMDenis/HiImDenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
