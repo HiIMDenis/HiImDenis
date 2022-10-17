@@ -1,9 +1,10 @@
-### Hi Everyone 👋😄
+### Hola a todos 👋🐪🐪🐪
 
 -💬 Ahora mismo estoy aprendiendo a programar, sobre todo me estoy especializando en:
   - Javascript
   - HTML5
-
+  - CSS
+  - SQL
 
 
 <!--
